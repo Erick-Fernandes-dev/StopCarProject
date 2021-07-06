@@ -1,0 +1,4 @@
+Modelo: ferrari
+Placa: 123
+Valor do aluguel por KM rodado: 10.0
+Categoria: CONVERSIVEL
